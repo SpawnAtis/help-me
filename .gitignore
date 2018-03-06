@@ -57,3 +57,11 @@ typings/
 # dotenv environment variables file
 .env
 
+# IDEA settings
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/warmup.iml
+.idea/workspace.xml
+.ide/help-me.iml
+
